@@ -1,2 +1,2 @@
 # PCBModules
-A set of schematics and PCB layouts for some handy modules used for electronics projects.
+A set of KiCAD schematics and PCB layouts for some handy modules used for electronics projects.
