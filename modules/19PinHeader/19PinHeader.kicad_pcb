@@ -115,7 +115,7 @@
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp c2f00cdc-e65e-4296-8501-0c36d5c06943)
     )
-    (fp_text value "Conn_01x19" (at 0 48.05) (layer "F.Fab") hide
+    (fp_text value "Header" (at 0 48.05) (layer "F.Fab") hide
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 9c6f6efb-1359-407b-9549-60b31150d3cd)
     )
@@ -219,7 +219,7 @@
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 83e57a4e-1d9a-4a76-a988-113ab4cde5b5)
     )
-    (fp_text value "Conn_01x19" (at 0 48.49) (layer "F.Fab") hide
+    (fp_text value "Socket" (at 0 48.49) (layer "F.Fab") hide
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp f6d36e53-4fae-4279-988e-8ef166f77585)
     )
@@ -371,7 +371,7 @@
   (dimension (type aligned) (layer "Dwgs.User") (tstamp 39d5f024-8b67-4c33-a832-e66427e853e0)
     (pts (xy 140.335 131.445) (xy 149.225 131.445))
     (height 5.08)
-    (gr_text "0.3500 in" (at 144.78 135.375) (layer "Dwgs.User") (tstamp 02206c53-951e-484c-a6e4-4d65d11b5fec)
+    (gr_text "0.3500 in" (at 144.78 135.375) (layer "Dwgs.User") (tstamp 39d5f024-8b67-4c33-a832-e66427e853e0)
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (format (units 3) (units_format 1) (precision 4))
@@ -380,7 +380,7 @@
   (dimension (type aligned) (layer "Dwgs.User") (tstamp 45971294-dbdf-4392-873c-867036260596)
     (pts (xy 149.225 66.675) (xy 149.225 131.445))
     (height -5.08)
-    (gr_text "2.5500 in" (at 153.155 99.06 90) (layer "Dwgs.User") (tstamp 12ae8047-0e97-4069-8357-5804c576dd0c)
+    (gr_text "2.5500 in" (at 153.155 99.06 90) (layer "Dwgs.User") (tstamp 45971294-dbdf-4392-873c-867036260596)
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (format (units 3) (units_format 1) (precision 4))

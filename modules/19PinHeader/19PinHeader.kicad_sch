@@ -5,8 +5,8 @@
   (paper "A4")
 
   (title_block
-    (title "19PinHeader")
-    (date "2022-09-10")
+    (title "8PinHeader")
+    (date "2022-09-13")
     (rev "1")
   )
 
@@ -276,7 +276,7 @@
     (in_bom yes) (on_board yes)
     (uuid 508c0a6d-9799-4124-a7e3-4fbc804f5835)
     (property "Reference" "J2" (id 0) (at 134.62 58.42 0))
-    (property "Value" "Conn_01x19" (id 1) (at 134.62 60.96 0))
+    (property "Value" "Header" (id 1) (at 134.62 60.96 0))
     (property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x19_P2.54mm_Vertical" (id 2) (at 134.62 87.63 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -308,7 +308,7 @@
     (in_bom yes) (on_board yes)
     (uuid d3b19949-3f1c-44bf-94f6-a610b7430efc)
     (property "Reference" "J1" (id 0) (at 115.57 58.42 0))
-    (property "Value" "Conn_01x19" (id 1) (at 115.57 60.96 0))
+    (property "Value" "Socket" (id 1) (at 115.57 60.96 0))
     (property "Footprint" "Connector_PinSocket_2.54mm:PinSocket_1x19_P2.54mm_Vertical" (id 2) (at 115.57 87.63 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -342,10 +342,10 @@
 
   (symbol_instances
     (path "/d3b19949-3f1c-44bf-94f6-a610b7430efc"
-      (reference "J1") (unit 1) (value "Conn_01x19") (footprint "Connector_PinSocket_2.54mm:PinSocket_1x19_P2.54mm_Vertical")
+      (reference "J1") (unit 1) (value "Socket") (footprint "Connector_PinSocket_2.54mm:PinSocket_1x19_P2.54mm_Vertical")
     )
     (path "/508c0a6d-9799-4124-a7e3-4fbc804f5835"
-      (reference "J2") (unit 1) (value "Conn_01x19") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x19_P2.54mm_Vertical")
+      (reference "J2") (unit 1) (value "Header") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x19_P2.54mm_Vertical")
     )
   )
 )
