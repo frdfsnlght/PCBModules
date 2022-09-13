@@ -1,7 +1,11 @@
 # PCBModules
-A set of KiCAD schematics and PCB layouts for some handy modules used for electronics projects.
+A set of KiCAD 6 schematics and PCB layouts for some handy modules used for electronics projects.
 
 ## Available modules
+
+* 8PinHeader
+
+   Useful for plugging in half of a ESP32 CAM module. Includes 2 mounting holes.
 
 * 19PinHeader
 
